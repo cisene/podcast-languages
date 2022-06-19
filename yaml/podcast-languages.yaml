@@ -2,11 +2,10 @@
 meta: 
   author: "Christopher Isene <christopher.isene@gmail.com>"
   description: "Mapping of languages through ISO-639-1, ISO-639-2 and ISO-639-3"
-  source: "https://b19.se/data/definitions-language-patterns.json"
+  source: "https://github.com/cisene/podcast-languages/yaml/podcast-languages.yaml"
   sources: 
     - coordinates: "https://glottolog.org/glottolog/language"
     - iso_639_2: "https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes"
-  title: "Definition of patterns for matching RSS/Podcast languages"
   created: 2021-02-27T12:26:04Z
   modified: 2022-06-19T09:49:36Z
 
